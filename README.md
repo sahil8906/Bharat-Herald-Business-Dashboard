@@ -67,4 +67,4 @@ Identifies areas of high/low return
 📌 Data-driven insights can guide strategic shift decisions
 
 **6. Screenshots / Demos**
-
+https://github.com/sahil8906/Bharat-Herald-Business-Dashboard/blob/main/2.png
