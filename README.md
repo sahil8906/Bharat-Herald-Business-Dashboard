@@ -58,13 +58,13 @@ Tracks user acquisition and engagement
 
 Evaluates cost efficiency
 Identifies areas of high/low return
-• Business Impact & Insights
+
+**• Business Impact & Insights**
+
 📌 Print remains a strong revenue contributor
 📌 Digital growth is increasing but not fully optimized
 📌 Opportunities exist to improve conversion and ROI
 📌 Data-driven insights can guide strategic shift decisions
-6. Screenshots / Demos
-Dashboard Overview
-KPI Section
-Revenue Trends
-ROI Analysis
+
+**6. Screenshots / Demos**
+
